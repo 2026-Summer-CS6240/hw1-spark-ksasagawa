@@ -12,12 +12,12 @@ local.master=local[4]
 local.input=input
 local.output=output
 # Pseudo-Cluster Execution
-hdfs.user.name=joe
+hdfs.user.name=kyle
 hdfs.input=input
 hdfs.output=output
 # AWS EMR Execution
 aws.emr.release=emr-6.10.0
-aws.bucket.name=cs6240-demo-bucket
+aws.bucket.name=kyle-sasagawa-cs6240-hw1-spark
 aws.input=input
 aws.output=output
 aws.log.dir=log
